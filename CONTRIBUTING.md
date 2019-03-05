@@ -1,12 +1,12 @@
 # CONTRIBUTING
 
 ##Steps for creating good issues
-  * Step 1: create issue in https://github.com/ascam/Haieat/issues
+  * Step 1: create issue in https://github.com/jmcarne/haieat/issues
   *	Step 2: specify Assignee, Label, Project, Milestone and Helpful resources
   * Step 3: click in button Submit New Issue
 
 ##Steps for creating pull requests
-  * Step 1: create pull request in https://github.com/ascam/Haieat/pulls
+  * Step 1: create pull request in https://github.com/jmcarne/haieat/pulls
   * Step 2: click in button New Pull Request
   
 ##Tests
